@@ -1,0 +1,15 @@
+.font
+{
+    font-size: 1.250em;
+}
+
+.block2
+{
+    margin-top: 10px;
+    width: 100%;
+}
+
+.list .block2 > p
+{
+    margin: 0 30px;
+}
